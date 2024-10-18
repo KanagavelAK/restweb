@@ -71,14 +71,14 @@ Publish the website in the given URL.
             <article class="column">
                 <h3>Our New Menu</h3>
                 <img src="fried.jpg" alt="New Menu">
-                <p>Crispy Honey Garlic Chicken</p>
+                <p>Crispy Hot Fried Rice</p>
                 <a href="#">See our new menu</a>
             </article>
 
             <article class="column">
                 <h3>Book a Table</h3>
                 <img src="cake.jpg" alt="Book a Table">
-                <p>Salade Niçoise</p>
+                <p>Spongy Cakes</p>
                 <a href="#">Book your table now</a>
             </article>
 
