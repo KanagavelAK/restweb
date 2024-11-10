@@ -239,12 +239,9 @@ footer {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-11-10 233735](https://github.com/user-attachments/assets/05c27572-5552-4880-b9c8-a599272be00d)
 
-![Screenshot 2024-10-18 135304](https://github.com/user-attachments/assets/d21489f8-63bc-4bdc-a00f-6b9d901737a3)
-
-![Screenshot 2024-10-18 135320](https://github.com/user-attachments/assets/0a171eb3-a238-4d2c-938c-ec025b7545b9)
-
-
+![Screenshot 2024-11-10 233743](https://github.com/user-attachments/assets/4e69d72b-6c98-4070-8475-dd9f3bb091bf)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
